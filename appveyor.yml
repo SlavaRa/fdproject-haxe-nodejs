@@ -1,6 +1,6 @@
 os: Visual Studio 2015
 environment:
-  VERSION: 1.0.0
+  VERSION: 1.0
   NAME: 331 Haxe - NodeJS Project
   DESC: A NodeJS project written in the Haxe language
   INFO: https:\/\/github.com\/SlavaRa\/fdproject-haxe-nodejs
