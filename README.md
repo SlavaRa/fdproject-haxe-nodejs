@@ -1,4 +1,4 @@
-Haxe [Haxe Node.JS](http://lib.haxe.org/p/hxnodejs/) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)/[HaxeDevelop](http://www.haxedevelop.org/)
+[Haxe Node.JS](http://lib.haxe.org/p/hxnodejs/) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)/[HaxeDevelop](http://www.haxedevelop.org/)
 ========================
 
 ### Installation
